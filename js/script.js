@@ -23,4 +23,3 @@ initFucionamento();
 initFetchAnimais();
 initFetchBitcoin();
 initAnimacaoScroll();
-
