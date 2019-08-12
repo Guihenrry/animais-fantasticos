@@ -30,5 +30,7 @@ export default class MenuMobile {
     if (this.menuButton && this.menuList) {
       this.addMenuMobileEvents();
     }
+    
+    return this;
   }
 }
